@@ -29,7 +29,7 @@ class Postman
      *                         Options to configure the Postman instance.
      *                         Was previously a debug flag. Legacy support for this exists if a boolean is passed.
      *                         scheme - e.g. http or https
-     *                         host - the host e.g. api.pusherapp.com. No trailing forward slash.
+     *                         host - the host e.g. api.postman.com. No trailing forward slash.
      *                         port - the http port
      *                         timeout - the http timeout
      *                         encrypted - quick option to use scheme of https and port 443.
